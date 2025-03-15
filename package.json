@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mongoose": "^8.4.4",
+    "nodemon": "^3.1.4",
+    "react-router-dom": "^6.24.0"
+  },
+  "name": "ecomm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
